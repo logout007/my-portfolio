@@ -9,7 +9,6 @@ import { useState } from "react";
 import Toast from "./components/toast";
 function App() {
   const [showtoast , setShowtoast] = useState(false)
-  console.log("logging state value",showtoast);
   return (
     <div className="scroll-smooth">
       <Navbar/>

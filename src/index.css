@@ -22,6 +22,11 @@
     animation-fill-mode:forwards;
     animation-timing-function:linear;
   }
+  .home{
+    padding-top: 110px;
+    padding-bottom: 7%;
+
+  }
   @keyframes progress {
     0% {
       width: 0%;
